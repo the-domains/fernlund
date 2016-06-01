@@ -10,8 +10,9 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.2877906
 color:
-  saturation: 0.6686359
+  saturation: 0.434479
   brandStrength: 0.03383457
   lightness: 0.3668098
   brandColors:
@@ -21,6 +22,5 @@ color:
     - '#6B574B'
     - '#160600'
   rhythmicContrast: 0.3668098
-typography_spectrum: 0.2877906
 layout_spectrum: 0.5290011
 name: Fernlund
