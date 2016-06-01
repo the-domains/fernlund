@@ -1,0 +1,14 @@
+layout_spectrum: 0.9436089
+color:
+  saturation: 0.803704
+  lightness: 0.1346252
+  brandStrength: 0.8786823
+  rhythmicContrast: 0.3749005
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+typography_spectrum: 0.2877906
+name: Fernlund
